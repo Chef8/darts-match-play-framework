@@ -1,6 +1,9 @@
 
 # Darts: Match-Play Checklist (The "Blank Slate" Protocol)
 
+### Version 1.0.0 (July 2026)
+
+
 **The Philosophy of this Guide:** This guide is designed for the experienced competitive player whose physical mechanics are established, but whose mental game faces the crucible of match play. Your dedication to this sport is a historical fact, verified by years of competitive mileage, technical refinement, and deliberate adaptation. You can look visually unique and experience nerves—or experience total emotional calm—while still needing to manage your attentional focus. This framework treats the competitive environment not as an emotional hurdle, but as a dynamic space to optimize alignment, regulate processing speed, and prioritize relentless execution over narrative. 
 
 ## 1. The Psychological Anchor: Process-Goal Intent

@@ -1,5 +1,8 @@
 # Darts: Forming New Habits (The "Somatic Umbrella" Method)
 
+### Version 1.0.0 (July 2026)
+
+
 **The Philosophy of this Guide:** This document provides a behavioral system for capturing consistency, moving past the text-heavy blueprints of mechanical analysis. High-precision sports execution relies entirely on fluid, automatic muscle memory, yet the analytical mind instinctively tries to catalog success through micro-adjustments. Trying to execute a throw while reading a textual mental checklist forces the brain into a destructive audit mode. This framework shifts your training objective from documenting geometry to anchoring raw physical presence. By condensing complex mechanics into single somatic triggers, you learn to step directly into the feeling of a perfect throw, close the analytical department, and let your accumulated motor memory execute.
 
 ## The Trap
