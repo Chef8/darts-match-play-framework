@@ -1,22 +1,17 @@
 
-# Darts: Match-Play Diagnostics & Calibration
+# Darts: Match-Play Diagnostics & Calibration (Volume 3)
 
-Version 2.2.0 (August 2026)
-
+Version 2.2.0 (August 2026) *The Baseline Mechanics Lock*
 
 ### Philosophy: The Unyielding Mechanics Principle
 
-> This manual is not an instructional text for learning how to throw a dart; it is a high-velocity operating system designed to preserve your pre-existing mechanics across all match conditions.
-
+> This manual represents the **Preservation Phase** (Volume 3) of the three-part darts system. It is not an instructional text for learning how to throw a dart, nor does it require prior study of Volumes 1 or 2; it is an independent, high-velocity calibration framework designed to preserve your pre-existing mechanics across all match conditions.
 
 > Under match friction—whether from an adrenaline surge, mid-session fatigue, or autopilot coasting—your brain's default reaction is to turn inward: obsessing over the target bed, micro-adjusting your grip, or trying to force your form. This internal analytical loop introduces erratic muscular tension or mechanical drift, causing focal paralysis. The core philosophy of this guide rests on three unyielding pillars:
 
-
 > - **Skeletal Superiority & Grounded Power:** Muscular bracing fails under fatigue and adrenaline. Your stance must utilize an active, dual-leg grounded foundation. The rear leg is an active anchor that stabilizes the kinetic chain and directs energy through a quiet core into the dart.
 
-
 > - **Trust the Line, Stop Steering:** Staring at the bed mid-stroke tempts you to steer or hand-deliver the dart. Define a good throw solely by a smooth, continuous arm swing and a clean, relaxed release. If your arm line stays true, the dart lands where you looked.
-
 
 > - **Re-Anchor Mechanics, Don't Micro-Analyze:** If a dart strays due to a broken rhythm or sudden hesitation, guessing at individual muscle fixes mid-match will destroy your throw. Re-engage your foundational anchors—rear foot pressure, quiet non-throwing arm, and a continuous acceleration rhythm—to automatically snap the kinetic chain back onto its baseline.
 
