@@ -3,11 +3,13 @@
 
 Version 2.0.0 (August 2026) *Establishing Your Baseline Mechanics*
 
+
 ### Philosophy: The Individual Geometry Principle
 
 > This document is Volume 1 of a three-part training architecture designed to build, automate, and preserve a repeatable throw. While it operates as a complete, standalone guide for establishing solid fundamentals, its primary objective is the **Establishment Phase**: building a natural, strain-free physical baseline from the floor up.
 
 > Intricate mechanics like your precise sight picture, exact finger placement on the barrel, and stance angle are inherently personal. Your geometry will—and should—evolve over time to accommodate unique eye dominance, physical stature, and natural anatomical adaptations (such as managing joint mobility, physical recovery, or adjusting for eyewear). Focus on mastering the underlying mechanical principles to build a repeatable, tension-free style that belongs entirely to you.
+
 
 ## How to Use This System: The Three Lenses of Mastery
 
@@ -161,7 +163,8 @@ No athlete builds a world-class throw by reading text in isolation. True motor m
 
 - **Troubleshooting (Direct Detection):**
 
-  - *If you feel the urge to change your foot angle or finger grip after one bad throw:* Stop. Commit to your baseline mechanics and throw at least two full visits before evaluating where the darts are clustering.
+  - If you feel the urge to change your foot angle or finger grip after one bad throw: Stop. Commit to your baseline mechanics and throw at least two to three full turns (6 to 9 darts) before evaluating where the darts are clustering.
+
 
 
 License & Distribution © 2026 by John Phillip Amarante. This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/).
